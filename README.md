@@ -80,7 +80,8 @@ in the table.)
 Below are referances for each table 
 containg endpoints, methods and parameters.
 They can be use with any open source desktop
-application.
+application. (Its recommended to use SQLAlchemy flask. 
+If you are make sure to type "flask run" in the command promt.)
 
 - **index**: loads all data from table
 - **shows**: loads one data row from table base on ID 
