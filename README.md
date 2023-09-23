@@ -1,8 +1,8 @@
 <h1>Course Management System</h1>
 
-####SQL Portfolio Project 
+<h4>SQL Portfolio Project</h4>
 
-#####by Spencer Klessens
+<h5>by Spencer Klessens</h5>
 
 This *CMS* is uesed for universities to store information 
 as four categories; students, professors courses and useraccounts.
@@ -75,7 +75,7 @@ in the table.)
         - hour-minuite-second *hh-mm-ss*
         - is required
 
-#####API
+<h5>API</h5>
 
 Below are referances for each table 
 containg endpoints, methods and parameters.
